@@ -26,4 +26,4 @@ Scaled Selenium + Java frameworks. Built comprehensive API testing for REST/SOAP
 **PG Diploma in Banking** — Manipal University (2014) | **B.Tech Electronics & Communication** — AVR & SVR Engineering College (2011)
 
 ## Core Focus
-Automation framework design, CI/CD integration, microservices validation, Agile testing, mentoring, quality gates
+Automation framework design, CI/CD integration, microservices validation, Agile testing, AI-enhanced testing workflows, LLM validation, mentoring, quality gates.
