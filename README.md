@@ -20,10 +20,10 @@ Designed Python/Pytest and Java/TestNG frameworks using POM. Automated UI/API te
 **QA Engineer / SDET** — Mphasis India (Jan 2019 – Mar 2022)  
 Scaled Selenium + Java frameworks. Built comprehensive API testing for REST/SOAP. Implemented BDD with Cucumber/Gherkin.
 
-**Earlier:** Banking Business Development (2014-2018), Service Desk Associate (2012-2013)
+**Earlier:** Client Relationship Management(2014-2018), Service Desk Associate (2012-2013)
 
 ## Education
-**PG Diploma in Banking** — Manipal University (2014) | **B.Tech Computer Science** — AVR & SVR Engineering College (2011)
+**PG Diploma in Banking** — Manipal University (2014) | **B.Tech Electronics & Communication** — AVR & SVR Engineering College (2011)
 
 ## Core Focus
 Automation framework design, CI/CD integration, microservices validation, Agile testing, mentoring, quality gates
