@@ -1,84 +1,129 @@
 # Ajith KV
-Senior QA Automation Engineer | SDET | 7+ Years Experience
 
-Hyderabad, India
-LinkedIn: https://www.linkedin.com/in/ajithprao/
+**Senior QA Automation Engineer | SDET | 7+ Years Experience**
 
----
-
-## About Me
-
-QA Automation Engineer specializing in scalable test frameworks,
-API testing, and CI/CD-driven quality engineering with AI-assistance and Human in the loop.
-
-Key achievements:
-• Reduced deployment time by 40% through CI-integrated automation
-• Reduced manual regression testing by 50%
-• Built scalable UI + API automation frameworks
+Building scalable automation frameworks for UI and API testing with a focus on CI/CD-driven quality engineering.
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-Languages
-Java | Python | SQL
+Experienced QA Automation Engineer specializing in building reliable test frameworks for modern applications.
+Passionate about improving engineering velocity through scalable automation and intelligent testing strategies.
 
-Automation
-Selenium | Playwright | REST Assured | PyTest | TestNG
+**Key Contributions**
 
-Testing
-API Testing | Functional Testing | Regression | Integration
+• Reduced manual regression testing effort by **50%** through automation frameworks
+• Improved deployment efficiency by **40%** via CI/CD-integrated test pipelines
+• Built reusable automation frameworks for **UI and API testing**
 
-CI/CD
-Jenkins | GitHub Actions | AWS
+---
 
-Performance
+## ⚙️ Tech Stack
+
+**Languages**
+Python • Java • SQL
+
+**Automation & Testing**
+Selenium • Playwright • PyTest • TestNG
+
+**API Testing**
+REST Assured • Postman • Python Requests
+
+**CI/CD & DevOps**
+Jenkins • GitHub Actions • Docker
+
+**Performance Testing**
 JMeter
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### API Automation Framework
-Tech: Python, PyTest
 
-• Modular test architecture
-• CI integration
-• API validation utilities
----
+Automation framework for scalable REST API testing.
 
-### REST API Testing Framework
-Tech: Python + Requests + PyTest
+Features:
 
-• Test data generation
-• Response validation
-• Structured reporting
+* Modular test architecture
+* Data-driven testing
+* API validation utilities
+* CI/CD integration support
 
-Repo: https://github.com/ajithrao2509/PythonRestAPITest
+Tech: Python • PyTest • Requests
 
 ---
 
-### FastAPI ML Service Testing
-Tech: FastAPI + Python
+### UI Automation Framework
 
-• API validation
-• Endpoint testing
-• Integration test examples
+Modern UI automation framework designed for maintainability and scalability.
 
-Repo: https://github.com/ajithrao2509/ml-models
+Features:
 
----
+* Page Object Model
+* Parallel test execution
+* Cross-browser testing
+* Structured reporting
 
-## Areas of Interest
-
-• AI-assisted test generation
-• Microservices testing
-• CI/CD testing strategies
-• LLM testing & validation
+Tech: Playwright / Selenium
 
 ---
 
-## Connect
+### Microservices Testing Demo
 
-LinkedIn - https://www.linkedin.com/in/ajithprao/
-Email - ajithrao.qa@gmail.com
+Demonstration of testing strategies for microservices architecture.
+
+Features:
+
+* Integration testing
+* API validation
+* Service mocking
+* Containerized test environment
+
+Tech: Docker • Python
+
+---
+
+### Test Data Generator
+
+Utility tool to generate realistic test data for automation and API testing.
+
+Features:
+
+* Dynamic test data generation
+* Customizable datasets
+* CLI usage support
+
+Tech: Python • Faker
+
+---
+
+## 🧠 Testing Philosophy
+
+I believe automation should improve engineering velocity rather than simply increase test coverage.
+
+My focus areas:
+
+• Fast feedback through CI/CD pipelines
+• Maintainable and scalable automation frameworks
+• Testing distributed systems and microservices
+• Exploring **AI-assisted testing approaches**
+
+---
+
+## 🌱 Areas of Interest
+
+• AI in Software Testing
+• Microservices Testing Strategies
+• Test Automation Architecture
+• Quality Engineering Practices
+• Data Testing & LLM Evals
+
+
+---
+
+## 🤝 Connect
+
+LinkedIn: https://linkedin.com/in/ajithprao
+GitHub: https://github.com/ajithrao2509
