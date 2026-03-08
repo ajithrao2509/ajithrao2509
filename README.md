@@ -80,5 +80,5 @@ Repo: https://github.com/ajithrao2509/ml-models
 
 ## Connect
 
-LinkedIn
-Email
+LinkedIn - https://www.linkedin.com/in/ajithprao/
+Email - ajithrao.qa@gmail.com
