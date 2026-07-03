@@ -2,7 +2,7 @@
 
 **Senior QA Automation Engineer | SDET | 7+ Years Experience**
 
-Building scalable automation frameworks for UI and API testing with a focus on CI/CD-driven quality engineering.
+Building scalable automation frameworks for UI and API testing with a focus on CI/CD-driven quality engineering with AI-First Thinking
 
 ---
 
@@ -82,20 +82,6 @@ Features:
 * Containerized test environment
 
 Tech: Docker • Python
-
----
-
-### Test Data Generator
-
-Utility tool to generate realistic test data for automation and API testing.
-
-Features:
-
-* Dynamic test data generation
-* Customizable datasets
-* CLI usage support
-
-Tech: Python • Faker
 
 ---
 
