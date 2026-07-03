@@ -1,115 +1,43 @@
-# Ajith KV
+Hi, I'm Ajith 👋
 
-**Senior QA Automation Engineer | SDET | 7+ Years Experience**
+Senior QA Engineer | QA Team Lead | Building AI-Augmented Quality Systems
 
-Building scalable automation frameworks for UI and API testing with a focus on CI/CD-driven quality engineering with AI-First Thinking
+10+ years across two careers — Banking, then a full transition into Software Quality Engineering. 7+ years deep in test methodologies, automation, and now leading a small QA team.
 
----
+🔀 The Transition
 
-## 👨‍💻 About Me
+I didn't start in tech. I spent years in Business Development across private banks in India — reading risk, managing stakeholders, and owning outcomes in environments where a mistake wasn't just a bug, it was a liability. I moved into IT because I wanted to build systems, not just manage them.
 
-Experienced QA Automation Engineer specializing in building reliable test frameworks for modern applications.
-Passionate about improving engineering velocity through scalable automation and intelligent testing strategies.
+That background still shapes how I test: I don't just look for defects, I look for risk exposure — what breaks trust, what breaks the business, what breaks the user's confidence in the product. Four years in, I lead a QA team and think about quality as a governance problem as much as a technical one.
 
-**Key Contributions**
+🎯 How I Approach QA
 
-• Reduced manual regression testing effort by **50%** through automation frameworks
-• Improved deployment efficiency by **40%** via CI/CD-integrated test pipelines
-• Built reusable automation frameworks for **UI and API testing**
+1. Quality is a system, not a checklist. I care less about "did we run the test cases" and more about "does our process catch what matters, consistently, without depending on heroics."
+2. Automate the repeatable, judge the ambiguous. I push hard on automation coverage so human attention goes where it's actually needed — edge cases, UX judgment calls, risk calls.
+3. AI-assisted, not AI-replaced. I've been building governance frameworks that let AI agents assist in bug triage, root-cause investigation, and even guided fixes — while keeping a human-defined rule layer, audit trail, and escalation path in place. The goal isn't to remove engineers from the loop; it's to compress the distance between "bug found" and "bug understood."
+4. Own the infrastructure, not just the tests. I've led decisions to move test automation off vendor-locked platforms and onto in-house frameworks specifically to keep CI/CD visibility and debugging power in our own hands — vendor convenience isn't worth losing observability into your own pipeline.
+5. Data-driven evaluation, even for non-deterministic systems. I've built structured evaluation datasets (query sets spanning intent, sentiment, and comparative reasoning) to bring rigor to testing AI/LLM-powered features, where "pass/fail" isn't always binary.
+6. Scale QA like an engineering discipline. I design test case hierarchies, custom tracking fields, and CI-integrated reporting so quality metrics are visible to the whole team — not locked in one QA engineer's head.
 
----
+🛠️ What I Work With
 
-## ⚙️ Tech Stack
+Testing & Automation: Playwright · TypeScript · Page Object Model · API Testing · Regression & Exploratory Testing
 
-**Languages**
-Python • Java • SQL
+AI-Augmented QA: AI-assisted bug triage & governance frameworks · Prompt-driven root cause analysis · LLM output evaluation
 
-**Automation & Testing**
-Selenium • Playwright • PyTest • TestNG
+Infra & Process: GitHub Actions (CI/CD) · Jira (governance & reporting at scale) · Test case architecture · Cross-functional stakeholder alignment
 
-**API Testing**
-REST Assured • Postman • Python Requests
+Domain Background: Data-as-a-Service platforms · Banking/BFSI risk awareness (from my BD years)
 
-**CI/CD & DevOps**
-Jenkins • GitHub Actions • Docker
+📌 Currently
 
-**Performance Testing**
-JMeter
+1. Leading a QA team, building out team capability from the ground up (delegation, automation ownership, career growth paths)
+2. Growing QA Signal — a side venture/content brand focused on practical, real-world QA and test automation insight
+3. Exploring formal AI/ML education to deepen the technical foundation under my AI-augmented QA work
 
----
+🤝 Let's Connect
 
-## 🚀 Featured Projects
+Always open to conversations on QA strategy, test automation architecture, or how AI is reshaping quality engineering.
 
-### API Automation Framework
-
-Automation framework for scalable REST API testing.
-
-Features:
-
-* Modular test architecture
-* Data-driven testing
-* API validation utilities
-* CI/CD integration support
-
-Tech: Python • PyTest • Requests
-
----
-
-### UI Automation Framework
-
-Modern UI automation framework designed for maintainability and scalability.
-
-Features:
-
-* Page Object Model
-* Parallel test execution
-* Cross-browser testing
-* Structured reporting
-
-Tech: Playwright / Selenium
-
----
-
-### Microservices Testing Demo
-
-Demonstration of testing strategies for microservices architecture.
-
-Features:
-
-* Integration testing
-* API validation
-* Service mocking
-* Containerized test environment
-
-Tech: Docker • Python
-
----
-
-## 🧠 Testing Philosophy
-
-I believe automation should improve engineering velocity rather than simply increase test coverage.
-
-My focus areas:
-
-• Fast feedback through CI/CD pipelines
-• Maintainable and scalable automation frameworks
-• Testing distributed systems and microservices
-• Exploring **AI-assisted testing approaches**
-
----
-
-## 🌱 Areas of Interest
-
-• AI in Software Testing
-• Microservices Testing Strategies
-• Test Automation Architecture
-• Quality Engineering Practices
-• Data Testing & LLM Evals
-
-
----
-
-## 🤝 Connect
-
-LinkedIn: https://linkedin.com/in/ajithprao
-GitHub: https://github.com/ajithrao2509
+💼 Open to discussing QA leadership, automation strategy, and AI-in-QA collaborations
+Linkedin: https://www.linkedin.com/in/ajithprao/
